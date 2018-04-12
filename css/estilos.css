@@ -1,0 +1,33 @@
+a{text-decoration: none;}
+a.logo:hover{color: rgb(30, 100, 200);}
+a.titulo1:hover{color: rgb(30, 100, 200);}
+a.enlace1:hover{color: black;}
+
+p.titulologo{font-size: 20px; 
+	display: inline-block;}
+
+p{ color:rgb(100, 95, 90);
+	font-size: 20px;}
+	/*font-family: inherit;
+	font-family: "ProximaNova", serif;
+	font-size: 1.2em;
+	font-weight: inherit;
+	font-size: 100%;
+	font-style: inherit;
+	vertical-align: baseline;*/
+
+.imagenes{
+	height: 640px;
+	margin: 0 auto;
+	display: block;
+	object-position: center;
+}
+
+.enlaces{text-align: right;}
+
+.enlace1{font-size: 20px;}
+
+.logo{color: black; font-size: 20px;}
+
+.titulo1{color: black;}
+
